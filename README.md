@@ -18,11 +18,11 @@ N/A
 
 ## Usage
 
-This site is meant to allow users to find information on Horiseon easily. It is meant to be accessible to all users and easier to find on search engines.
+This site is meant to allow users to find information on Horiseon easily. It is meant to be accessible to all users and easier to find on search engines. Website contains 3 links that take the user to various sections on the site. The site contains alt attributes for all images which allows visually impaired to understand the content contained within the images.
 
 ## Credits
 
-Starter code by edX Boot Camp LLC.
+Starter code by edX Boot Camp LLC. <br/>
 Refactored code by Joshua Myers
 
 ## License

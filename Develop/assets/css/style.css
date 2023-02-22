@@ -1,13 +1,16 @@
+/* Universal Selector that contains formating for the entire webpage. */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body Selector that changes webpage background. */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header Selector that formats header bar. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Element Selector for main webpage image. Contains image and formatting. */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,12 +73,16 @@ p {
     margin-left: 25px;
 }
 
+/* Content Selector with formatting for all content elements. 
+(i.e. Search Engine Optimization, Online Reputation Management, and Social Media Marketing) */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Benefits Selector with formatting for all benefits elements.
+(i.e. Lead Generation, Brand Awareness, anc Cost Mangement) */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +196,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer Selector that formats webpage footer. */
 .footer {
     padding: 30px;
     clear: both;

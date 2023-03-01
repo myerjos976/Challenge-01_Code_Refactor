@@ -4,6 +4,7 @@
 
 The purpose of this project is to refactor the code of a website to make it more accessible and user-friendly. This is done by using semantic HTML elements that follow a logical structure, adding alt attributes to images and icons, having heading attributes fall in sequential order, and by having a descriptive title. 
 
+![image](https://user-images.githubusercontent.com/122832005/222021193-b9b55747-3728-479b-bd1c-84b5b4c2429e.png)
 
 ## Table of Contents
 
@@ -13,8 +14,8 @@ The purpose of this project is to refactor the code of a website to make it more
 - [License](#license)
 
 ## Installation
+Link to deployed webpage: https://myersjos967.github.io/Challenge-01_Code_Refactor/
 
-N/A
 
 ## Usage
 
